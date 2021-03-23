@@ -1,0 +1,43 @@
+touch file2
+git status
+git add file2
+git commit -m "2nd commited "file2
+
+git show commit -id
+
+
+commands
+
+1.touch
+ls
+3.git status
+4.git commit-m "label"file1
+5.git status
+6.git log
+7.git show cid
+
+multiple files
+
+1.touch file2 file3 file3
+2.git status
+3.git add file2 file4
+or
+git add*
+or 
+git add .
+git commit -m "file2 to file6"
+
+
+
+by mistake added by file workspace and staging area .
+
+
+git reset head
+
+git clone https://github
+ls
+ *
+
+
+logs
+
